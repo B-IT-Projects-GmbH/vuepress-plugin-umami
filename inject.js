@@ -35,7 +35,7 @@ export default ({ router }) => {
 
       g.async=true;
       g.defer=true;
-      g.src=TRACKER_URL+'/umami.js';
+      g.src=TRACKER_URL;
       s.parentNode.insertBefore(g,s);
     })();
   }
