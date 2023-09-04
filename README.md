@@ -46,7 +46,7 @@ You will get parameters required from your Umami instance:
 
 ![Umami Settings](./settings.png)
 
-*Please note:* The URL in the configuration shouldn't include `/umami.js`.
+*Please note:* The URL in the configuration should include the full URL with tracker name.
 
 
 For more details on how to work with VuePress plugins check the [official docs](https://vuepress.vuejs.org/plugin/using-a-plugin.html).
